@@ -1,0 +1,141 @@
+~~~~ROBUSTNESS TESTING~~~~
+
+Number of Inputs : 2
+Test Case Values:-
+For Input '1' :-
+99
+100
+101
+300
+499
+500
+501
+For Input '2' :-
+49
+50
+51
+75
+99
+100
+101
+
+Number of Test Case(6n+1)= 13
+
+Test Results:-
+
+
+TEST CASE : 1
+Input 1= 101
+Input 2= 49
+Output:-
+
+Enter A and B: 
+A=101	B=49	Sum=150
+
+
+TEST CASE : 2
+Input 1= 101
+Input 2= 50
+Output:-
+
+Enter A and B: 
+A=101	B=50	Sum=151
+
+
+TEST CASE : 3
+Input 1= 101
+Input 2= 51
+Output:-
+
+Enter A and B: 
+A=101	B=51	Sum=152
+
+
+TEST CASE : 4
+Input 1= 101
+Input 2= 75
+Output:-
+
+Enter A and B: 
+A=101	B=75	Sum=176
+
+
+TEST CASE : 5
+Input 1= 101
+Input 2= 99
+Output:-
+
+Enter A and B: 
+A=101	B=99	Sum=200
+
+
+TEST CASE : 6
+Input 1= 101
+Input 2= 100
+Output:-
+
+Enter A and B: 
+A=101	B=100	Sum=201
+
+
+TEST CASE : 7
+Input 1= 101
+Input 2= 101
+Output:-
+
+Enter A and B: 
+A=101	B=101	Sum=202
+
+
+TEST CASE : 8
+Input 1= 99
+Input 2= 51
+Output:-
+
+Enter A and B: 
+A=99	B=51	Sum=150
+
+
+TEST CASE : 9
+Input 1= 100
+Input 2= 51
+Output:-
+
+Enter A and B: 
+A=100	B=51	Sum=151
+
+
+TEST CASE : 10
+Input 1= 101
+Input 2= 51
+Output:-
+
+Enter A and B: 
+A=101	B=51	Sum=152
+
+
+TEST CASE : 11
+Input 1= 499
+Input 2= 51
+Output:-
+
+Enter A and B: 
+A=499	B=51	Sum=550
+
+
+TEST CASE : 12
+Input 1= 500
+Input 2= 51
+Output:-
+
+Enter A and B: 
+A=500	B=51	Sum=551
+
+
+TEST CASE : 13
+Input 1= 501
+Input 2= 51
+Output:-
+
+Enter A and B: 
+A=501	B=51	Sum=552

@@ -1,0 +1,199 @@
+html {
+    background-color: #eeeeee;
+}
+
+@font-face {
+    font-family: Mos;
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: Aleo;
+    src: url(..\fonts\aleo\Aleo-Bold.otf) format("opentype");
+}
+
+html,
+body {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #eeeeee;
+   
+}
+
+h1
+{
+    font-family: Mos;
+    font-size: 250% ;
+}
+
+
+textarea {
+    resize: none;
+    white-space: pre;
+    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    overflow: -moz-scrollbars-horizontal;
+}
+
+.verticalFirst {
+    vertical-align: middle !important;
+}
+
+
+#menulist
+{
+     font-family: Mos;
+     font-size: 120% ;
+}
+#logoText
+{
+     font-family: Mos;
+     font-size: 200% ;
+}
+
+.boxSection {
+    margin: 30px 0 30px 0;
+}
+
+.greybox {
+    background-color: #646464;
+}
+
+.enterCode {
+    font-size: 150%;
+    padding-top: 8px;
+    float: left;
+}
+
+.srcButton,
+.outButton {
+    float: right;
+    margin: 5px;
+}
+
+.leftTextarea {
+    margin-left: 0;
+    float: left
+}
+
+.rightTextarea {
+    margin: auto;
+    float: right;
+}
+
+.lasttextarea {
+    margin: auto;
+    width: 400px;
+    margin-top: 30px;
+}
+
+.margin-left-60 {
+    margin-left: 60px;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}
+
+.file-style {
+    position: relative;
+    left: -50px;
+    top: 15px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.margin-bottom-10 {
+    margin-bottom: 7px;
+}
+
+.margin-top-15 {
+    margin-top: 20px;
+}
+
+.margin-left-25 {
+    margin-left: 25px;
+}
+
+.margin-left {
+    margin-left: 20px;
+}
+
+.btn-default {
+    margin: 10px 0 10px 0px;
+}
+
+.submit-style {
+    position: relative;
+    bottom: 5px;
+}
+
+.choseFile {
+    padding: 0;
+}
+
+.dwnldsrccode {
+    float: right !important;
+}
+
+.rightTextareaTime {
+    float: left;
+}
+
+.formatButton {
+    /*    margin: 20px 0 20px 0;*/
+    /*    float: right;*/
+}
+
+.inputBox {
+    margin-top: -30px;
+}
+
+.timeText {
+    float: left;
+}
+
+.inputAreaTime {
+    margin-top: -25px;
+}
+
+.inputBoxTime {
+    margin-top: 20px;
+}
+
+.form-buttons {
+    list-style-type: none;
+}
+
+.form-buttons li {
+    display: inline-block;
+}
+
+input[type="number"] {
+    width: 220px;
+    height: 47px;
+}
+
+.iterationInput{
+    font-family: 'Lucida Grande';
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+
+    font-weight: bold;
+    text-align: center;
+}
+
+.finalTextareaTime {
+    margin: 20px 0 0 15px;
+    overflow: auto;
+    font-family: 'Lucida Grande';
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 40px;
+    font-weight: bold;
+    text-align: center;
+}
